@@ -1,0 +1,9 @@
+/* app/components/Card.module.css */
+.cardCustom {
+    border: 2px dashed teal;
+    transition: transform 0.3s ease;
+}
+
+.cardCustom:hover {
+    transform: scale(1.05);
+}
